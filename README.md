@@ -1,3 +1,5 @@
+# 🛡️ AI Powered Phishing & Deepfake Detection System
+
 The AI Powered Phishing & Deepfake Detection System is a unified fraud detection platform designed to identify and prevent next-generation cyber threats driven by artificial intelligence.
 
 The system analyzes multiple types of inputs, including URLs, email content, images, audio, and videos, to detect phishing attacks, deepfake media, and AI-generated voice scams.
@@ -5,11 +7,6 @@ The system analyzes multiple types of inputs, including URLs, email content, ima
 It leverages machine learning and deep learning techniques to extract patterns, identify anomalies, and classify potential threats. The outputs from different detection modules are combined using a unified risk scoring mechanism, providing users with a comprehensive fraud risk assessment along with attack type and confidence level.
 
 This project aims to enhance digital security by offering a scalable and intelligent solution capable of addressing modern cyber fraud challenges, making it suitable for applications in fintech, cybersecurity, and enterprise systems.
-
-# 🛡️ AI Powered Phishing & Deepfake Detection System
-#📌 Overview
-
-The AI Powered Phishing & Deepfake Detection System is a unified fraud detection platform designed to identify modern cyber threats such as phishing attacks, deepfake media, and AI-generated voice scams.
 
 The system analyzes multi-modal inputs including:
 - 🔗 URLs  
